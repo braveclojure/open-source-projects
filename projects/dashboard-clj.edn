@@ -1,5 +1,5 @@
 {:project/name "Dashboard-clj",
- :project/tagline "Mini-framework to build real-time dashboards",
+ :project/tagline "Mini-framework for building real-time dashboards",
  :project/repo-url "https://github.com/multunus/dashboard-clj",
  :project/home-page-url "https://github.com/multunus/dashboard-clj",
  :project/description
