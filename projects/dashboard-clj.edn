@@ -3,6 +3,6 @@
  :project/repo-url "https://github.com/multunus/dashboard-clj",
  :project/home-page-url "https://github.com/multunus/dashboard-clj",
  :project/description
- "We want to abstract away the plumbing work that goes into building real-time dashboards.",
+ "Abstract away the plumbing work that goes into building real-time dashboards.",
  :record/tags
  "realtime, dashboard, framework, backend, frontend, re-frame"}
