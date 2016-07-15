@@ -1,0 +1,6 @@
+{:project/name "Clojure News Web Application",
+ :project/tagline "web clojure-news ",
+ :project/repo-url "https://github.com/ertugrulcetin/ClojureNews",
+ :project/home-page-url "https://github.com/ertugrulcetin/ClojureNews",
+ :project/description
+ "Clojure News Web Application - (Hacker News Clone) Entirely written in Clojure & ClojureScript"}
