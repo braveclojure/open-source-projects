@@ -1,0 +1,7 @@
+{:project/name "rete4frames",
+ :project/tagline "An expert system shell",
+ :project/repo-url "https://github.com/rururu/rete4frames",
+ :project/home-page-url "https://github.com/rururu/rete4frames",
+ :project/description
+ "CLIPS-like expert system shell using RETE algorithm as inference engine. CLIPS comparative benchmarks and examples. ",
+ :record/tags "expert system, expert system shell"}
