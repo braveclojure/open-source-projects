@@ -1,0 +1,8 @@
+{:project/name "es-boat",
+ :project/tagline
+ "A prototype of an expert system for coastal navigation",
+ :project/repo-url "https://github.com/rururu/es-boat",
+ :project/home-page-url "https://github.com/rururu/es-boat",
+ :project/description
+ "A prototype of an expert system for coastal navigation - the test example for the rete4frames expert system shell.\n\nIt uses Protege-3.5 ontology editor as a knowledge representation system and server side GUI, OpenStreetMap API, Leaflet JavaScript library, Cesium WebGL virtual globe and map engine, GeoNames geographical database and Wikipedia.",
+ :record/tags "expert system, simulator, games"}
