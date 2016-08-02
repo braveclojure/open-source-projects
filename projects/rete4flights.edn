@@ -1,0 +1,8 @@
+{:project/name "rete4flights",
+ :project/tagline
+ "Air traffic control system - a test example for the rete4frames expert system shell",
+ :project/repo-url "https://github.com/rururu/rete4flights",
+ :project/home-page-url "https://github.com/rururu/rete4flights",
+ :project/description
+ "Air traffic control system and flight simulator - a test example for the rete4frames expert system shell. It uses Flightradar24 web service, Leaflet JavaScript library and Cesium WebGL virtual globe and map engine.",
+ :record/tags "expert system, simulator, games"}
