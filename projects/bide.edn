@@ -1,0 +1,8 @@
+{:project/name "bide",
+ :project/tagline
+ "A simple and high performance routing library for ClojureScript",
+ :project/repo-url "https://github.com/funcool/bide",
+ :project/home-page-url "https://github.com/funcool/bide",
+ :project/description
+ "Is a small and high performance routing library for ClojureScript that uses Express like syntax for path matching.",
+ :record/tags "frontend, routing"}
