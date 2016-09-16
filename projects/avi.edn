@@ -1,11 +1,9 @@
-{:project/name "Avi"
- :project/tagline "a lively vi (a spec & implementation of vim)"
- :project/repo-url "https://github.com/maitria/avi"
- :project/home-page-url "http://maitria.github.io/2015/12/02/avi-is-a-spec-first.html"
- :project/description "Avi is both a spec and an implementation of vim in Clojure. It's made to be extensible and easy to work with.
-
-A post about why it's a spec as well as an implementation is here: http://maitria.github.io/2015/12/02/avi-is-a-spec-first.html
-
-It's in development, so issues are on a trello board here: https://trello.com/b/E2LFvVLy/avi Beginner-friendly issues are colored green. Please get in touch if you have questions! We'll be happy to help, or pair."
- :project/beginner-friendly true
+{:project/name "Avi",
+ :project/tagline "a lively vi (a spec & implementation of vim)",
+ :project/repo-url "https://github.com/maitria/avi",
+ :project/home-page-url
+ "http://maitria.github.io/2015/12/02/avi-is-a-spec-first.html",
+ :project/description
+ "Avi is both a spec and an implementation of vim in Clojure. It's made to be extensible and easy to work with.\n\nA post about why it's a spec as well as an implementation is here: http://maitria.github.io/2015/12/02/avi-is-a-spec-first.html\n\nIt's in development, so issues are on a trello board here: https://trello.com/b/E2LFvVLy/avi Beginner-friendly issues are colored green. Please get in touch if you have questions! We'll be happy to help, or pair.",
+ :project/beginner-friendly true,
  :record/tags "vim"}
