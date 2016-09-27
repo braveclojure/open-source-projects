@@ -1,0 +1,7 @@
+{:project/name "cljstache",
+ :project/tagline "{{ mustache }} templates for Clojure[Script].",
+ :project/repo-url "https://github.com/fotoetienne/cljstache",
+ :project/home-page-url "https://github.com/fotoetienne/cljstache",
+ :project/description
+ "Cljstache provides mustache template rendering in both Clojure and ClojureScript. This project uses pure Clojure with reader conditionals instead of wrapping java/javascript libraries. Unit tests are running on travis-ci for both clj and cljs. Pull Requests welcome!",
+ :record/tags "web development, mustache, templates, fronted, backend"}
