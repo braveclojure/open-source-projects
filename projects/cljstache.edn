@@ -3,5 +3,6 @@
  :project/repo-url "https://github.com/fotoetienne/cljstache",
  :project/home-page-url "https://github.com/fotoetienne/cljstache",
  :project/description
- "Cljstache provides mustache template rendering in both Clojure and ClojureScript. This project uses pure Clojure with reader conditionals instead of wrapping java/javascript libraries. Unit tests are running on travis-ci for both clj and cljs. Pull Requests welcome!",
+ "Cljstache provides mustache template rendering in both Clojure and ClojureScript. This project uses pure Clojure with reader conditionals instead of wrapping java/javascript libraries. Unit tests are running on travis-ci for both clj and cljs. \n\nIf you're interested in contributing, feel free to take a swing at one of our current issues: https://github.com/fotoetienne/cljstache/issues\n\nPull Requests welcome!",
+ :project/beginner-friendly false,
  :record/tags "web development, mustache, templates, fronted, backend"}
