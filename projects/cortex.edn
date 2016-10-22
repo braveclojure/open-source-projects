@@ -1,0 +1,6 @@
+{:project/name "cortex",
+ :project/repo-url "https://github.com/thinktopic/cortex",
+ :project/home-page-url "https://github.com/thinktopic/cortex",
+ :project/description
+ "Neural networks, regression and feature learning in Clojure.",
+ :record/tags "machine learning"}
