@@ -1,0 +1,8 @@
+{:project/name "Memory Hole",
+ :project/tagline "support issue organizer",
+ :project/repo-url "https://github.com/yogthos/memory-hole",
+ :project/home-page-url "https://github.com/yogthos/memory-hole",
+ :project/description
+ "Memory Hole is a support issue organizer. It's designed to provide a way to organize and search common support issues and their resolution.",
+ :project/beginner-friendly false,
+ :record/tags "frontend, backend, web"}
