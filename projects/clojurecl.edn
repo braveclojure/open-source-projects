@@ -1,16 +1,9 @@
-{:project/name "ClojureCL"
- :project/tagline "Parallel computations on the GPU with OpenCL 2.0 in Clojure"
- :project/repo-url "https://github.com/uncomplicate/clojurecl"
- :project/home-page-url "http://clojurecl.uncomplicate.org/"
- :project/description "High Performance Computing:
-OpenCL gives you access to many hardware optimizations.
-It supports GPUs, CPUs, and other accelerators. Resulting code may be tens of times faster than Java, and several times faster than ordinary C on CPU. On GPU, with appropriate algorithms, the results may be tens or hundreds times faster than on CPU.
-
-Optimized for Clojure:
-Built with Clojure in mind. Sane interface and functions that fit into functional style while still respecting the reality of number crunching with OpenCL.
-
-Reusable literature:
-Closely follows OpenCL 2.0 specification.
-ClojureCL code examples of the OpenCL in Action book.
-Check out the Neanderthal native matrix library. You can use its source code as a real-world example of how to harness GPU power from Clojure."
- :record/tags "GPGPU, high performance computing, OpenCL, GPU, algorithms, numeric"}
+{:project/name "ClojureCL",
+ :project/tagline
+ "Parallel computations on the GPU with OpenCL 2.0 in Clojure",
+ :project/repo-url "https://github.com/uncomplicate/clojurecl",
+ :project/home-page-url "http://clojurecl.uncomplicate.org/",
+ :project/description
+ "High Performance Computing:\nOpenCL gives you access to many hardware optimizations.\nIt supports GPUs, CPUs, and other accelerators. Resulting code may be tens of times faster than Java, and several times faster than ordinary C on CPU. On GPU, with appropriate algorithms, the results may be tens or hundreds times faster than on CPU.\n\nOptimized for Clojure:\nBuilt with Clojure in mind. Sane interface and functions that fit into functional style while still respecting the reality of number crunching with OpenCL.\n\nReusable literature:\nClosely follows OpenCL 2.0 specification.\nClojureCL code examples of the OpenCL in Action book.\nCheck out the Neanderthal native matrix library. You can use its source code as a real-world example of how to harness GPU power from Clojure.",
+ :record/tags
+ "GPGPU, high performance computing, OpenCL, GPU, algorithms, numeric"}
