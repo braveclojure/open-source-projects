@@ -1,0 +1,7 @@
+{:project/name "asbd",
+ :project/tagline "asa",
+ :project/repo-url "http://as",
+ :project/home-page-url "http://asa",
+ :project/beginner-issues-label "sa",
+ :project/description "as",
+ :record/tags "asa"}
