@@ -1,5 +1,5 @@
 {:project/name "asciinema-player",
- :project/tagline "Web player for terminal session recordings",
+ :project/tagline "Web player for terminal session recording",
  :project/repo-url "https://github.com/asciinema/asciinema-player",
  :project/home-page-url "https://asciinema.org",
  :project/description
