@@ -1,5 +1,5 @@
 {:project/name "eggplant ",
- :project/tagline "Behaviour Drive Development Library for Clojure",
+ :project/tagline "Behaviour Driven Development Library for Clojure",
  :project/repo-url "https://github.com/egg-plant/eggplant",
  :project/home-page-url "https://github.com/egg-plant/eggplant",
  :project/beginner-issues-label "",
