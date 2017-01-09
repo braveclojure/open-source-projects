@@ -1,0 +1,11 @@
+{:project/name "Status.im",
+ :project/tagline
+ "a web3 browser, messenger, and gateway to a decentralised world of Ethereum. re-natal + re-frame + cljs + golang",
+ :project/repo-url "https://github.com/status-im/status-react",
+ :project/home-page-url "https://status.im",
+ :project/beginner-issues-label "beginner",
+ :project/description
+ "We've just launched the first alpha of Status, a mobile web3 browser, messenger and gateway to a decentralised world of the Ethereum blockchain.\n\nStatus is built using re-natal + re-frame + cljs + golang and is completely open source.\n\nWe're looking for contributors who are interested in Smart Contracts, Crypto-currencies and who want to learn or already know ClojureScript and re-frame.\n\nYet another Messenger?\nActually no, Status is a decentralised, peer-to-peer app. Its communication protocol uses an Ethereum sub-protocol called SHH/Whisper (not to be confused with Signal) which is an identity-based encrypted messaging protocol with dark routing. \n\nWe're building an agnostic platform; akin to an open source version of WeChat. Thanks to Ethereum, there's a whole new ecosystem of applications being developed that are completely decentralised, and Status aims to provide a user interface to access them. These applications remove the need for middlemen and centralised servers, providing a clear path forward towards an internet where users get to own their own data, and an economy built on open protocols.\n\nWhat's that about a browser?\nIn Ethereum (and Status) - there is a concept called 'web3', files are stored using SWARM (a kademlia-like decentralised file storage solution) and 'server-side logic' is done using Smart Contracts and on the blockchain. This allows us to create trust-less, censorship resistant systems.\n\nStill interested? Checkout our wiki or join our Slack, in #dev-status or PM either @jarradhope or @carl.\nhttp://wiki.status.im/\nhttp://slack.status.im/\n\nWant to find beginner issues or where to start?\nhttp://wiki.status.im/contributing/development/introduction/\n\nWe have a great core contributor team of 7 and we look forward to you joining us!\n\n",
+ :project/beginner-friendly true,
+ :record/tags
+ "ethereum, re-frame, reactnative, android, ios, mobile, blockchain"}
