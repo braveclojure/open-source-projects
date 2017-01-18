@@ -1,0 +1,8 @@
+{:project/name "Macchiato",
+ :project/tagline "Ring style HTTP server abstraction for Node.js",
+ :project/repo-url "https://github.com/macchiato-framework",
+ :project/home-page-url "https://github.com/macchiato-framework",
+ :project/description
+ "Macchiato Core implements a Ring compatible framework on top of Node.js. ",
+ :project/beginner-friendly false,
+ :record/tags "web development, framework, backend"}
