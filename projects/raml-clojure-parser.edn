@@ -1,0 +1,6 @@
+{:project/name "Raml clojure parser",
+ :project/tagline "An RAML parser implemented in clojure",
+ :project/repo-url "https://github.com/zacyang/raml-clj-parser",
+ :project/home-page-url "https://github.com/zacyang/raml-clj-parser",
+ :project/description
+ "This lib is able to read valid RAML 1.0 and RAML 0.8 file into clojure edn.\nAnd also it is able to valid RAML 0.8 file."}
