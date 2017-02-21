@@ -1,0 +1,11 @@
+{:project/name "Metabase",
+ :project/tagline
+ "Open-source business intelligence and analytics tool",
+ :project/repo-url "https://github.com/metabase/metabase/",
+ :project/home-page-url "http://metabase.com",
+ :project/beginner-issues-label "Help Wanted",
+ :project/description
+ "Metabase is an easy, open source way for everyone in a company to ask questions and learn from data. It's a business intelligence/dashboard tool that can connect to over a dozen different types of databases (Postgres, MySQL, Mongo, Druid, and more) and lets you easily build queries and visualize the results.\n\nWe have an active community and a HUGE list of open GitHub issues for bugfixes, enhancements, and new features [here](https://github.com/metabase/metabase/issues). We have tons of features contributed by the community and welcome new ones, and our experienced Clojure developers can help you get a PR into a mergeable state.",
+ :project/beginner-friendly true,
+ :record/tags
+ "analytics, business intelligence, data visualization, SQL editor, data analysis"}
