@@ -1,0 +1,9 @@
+{:project/name "Clojure2D",
+ :project/tagline "A generative/glitch art library",
+ :project/repo-url "https://github.com/Clojure2D/clojure2d",
+ :project/home-page-url "https://clojure2d.github.io/clojure2d/",
+ :project/beginner-issues-label "begginer",
+ :project/description
+ "Clojure2D is a lightweight library supporting generative coding or glitching. It’s based on Java2D directly. ",
+ :project/beginner-friendly true,
+ :record/tags "framework"}
