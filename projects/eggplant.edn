@@ -4,5 +4,5 @@
  :project/home-page-url "https://github.com/egg-plant/eggplant",
  :project/beginner-issues-label "",
  :project/description
- "eggplant is at the very beginning of its life. BDD is a very popular form of development and specification by example is a key part of this process. eggplant intends to provide the technical features required for this to enable simple and fast BDD for Clojure. \n\nOur Motto: \"Simplicity is key\"\n\nPlease join the fun!!",
+ "eggplant is a growing behavior driven development framework to allow developers to layout BDD tests quickly in Clojure. BDD is a very popular form of development and specification by example is a key part of this process. eggplant intends to provide the technical features required for this to enable simple and fast BDD for Clojure. \n\nOur Motto: \"Simplicity is key\"\n\nPlease join the fun!!",
  :project/beginner-friendly true}
