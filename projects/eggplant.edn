@@ -4,5 +4,5 @@
  :project/home-page-url "https://github.com/egg-plant/eggplant",
  :project/beginner-issues-label "",
  :project/description
- "eggplant is a growing behavior driven development framework to allow developers to layout BDD tests quickly in Clojure. BDD is a very popular form of development and specification by example is a key part of this process. eggplant intends to provide the technical features required for this to enable simple and fast BDD for Clojure. \n\nOur Motto: \"Simplicity is key\"\n\nPlease join the fun!!",
+ "eggplant is a growing behavior driven development framework to allow developers to layout BDD tests quickly in Clojure. BDD is a very popular form of development and specification by example is a key part of this process. eggplant intends to provide the technical features required for this to enable simple and fast BDD for Clojure. \n\nExample: \n\n(defspec example-specification-multiplication\n         (testing \"Test with Thread Macro given\"\n           (given 2 test-data\n                  (then-we-expect 4 (when-we-process * 2 test-data)))))\n\nOur Motto: \"Simplicity is key\"\n\nPlease join the fun!!",
  :project/beginner-friendly true}
