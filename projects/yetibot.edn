@@ -1,6 +1,6 @@
 {:project/name "Yetibot",
  :project/tagline "An ambitious chat bot written in Clojure",
- :project/repo-url "https://github.com/devth/yetibot",
+ :project/repo-url "https://github.com/yetibot/yetibot",
  :project/home-page-url "http://yetibot.com",
  :project/beginner-issues-label "beginner",
  :project/description
