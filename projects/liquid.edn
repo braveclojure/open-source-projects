@@ -1,0 +1,8 @@
+{:project/name "Liquid",
+ :project/tagline
+ "Highly extensible text editor written in pure Clojure",
+ :project/repo-url "https://github.com/mogenslund/liquid",
+ :project/home-page-url "https://github.com/mogenslund/liquid",
+ :project/description
+ "Liquid has no dependencies except Clojure itself. It runs in terminals and WebBrowsers, even remotely. Almost any Java or Clojure library can be used as extension. Embed it in your application or built your application in it. Evaluate Clojure code inside and it becomes part of the editor. Have fun!",
+ :record/tags "editor, text, development, ide"}
