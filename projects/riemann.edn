@@ -1,0 +1,8 @@
+{:project/name "Riemann",
+ :project/tagline "a network event stream processing system",
+ :project/repo-url "https://github.com/riemann/riemann",
+ :project/home-page-url "http://riemann.io/",
+ :project/beginner-issues-label "",
+ :project/description
+ "Riemann aggregates events from your servers and applications with a powerful stream processing language.",
+ :record/tags "networking"}
