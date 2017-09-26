@@ -1,0 +1,8 @@
+{:project/name "Overtone",
+ :project/tagline "Collaborative Programmable Music",
+ :project/repo-url "https://github.com/overtone/overtone",
+ :project/home-page-url "http://overtone.github.io/",
+ :project/beginner-issues-label "",
+ :project/description
+ "Overtone is an Open Source toolkit for designing synthesizers and collaborating with music.",
+ :record/tags "music"}
