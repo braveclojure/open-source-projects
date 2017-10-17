@@ -1,0 +1,8 @@
+{:project/name "Clojurecademy",
+ :project/tagline
+ "Interactive Clojure based courses. It's like Codecademy for Clojure.",
+ :project/repo-url "https://github.com/clojurecademy/clojurecademy",
+ :project/home-page-url "https://clojurecademy.com",
+ :project/description
+ "Clojurecademy is like Codecademy that focuses only Clojure and its ecosystem, it teaches Clojure programming language or anything related to programming in general(e.g. Algorithms & Data Structures to Code Koans/Katas in Clojure) interactively.\n\nClojurecademy embraces Codecademy's interactive approach which makes coding fun and easy to learn.\n\nWith Clojurecademy's powerful DSL developers who know Clojure can create any courses.",
+ :record/tags "web development, sandboxing"}
