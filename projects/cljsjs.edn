@@ -6,4 +6,4 @@
  :project/description
  "boot-cljsjs is used by everyone creating a package for CLJSJS. So far there have been a little less than 200 Clojurians making use of this toolchain to integrate JavaScript code into their ClojureScript projects.\n\nAnd while things are working reasonably well there are always things to improve. Externs are a complicated endeavour and we want to make it as easy as possible for people to author and maintain them.\n\nIf you're interested in getting involved join the #cljsjs channel in the Clojurians Slack team (clojurians.net) and check if you're interested in working on any of the issues here: http://bit.ly/cljsjs-help-wanted (other ideas also welcome).",
  :project/beginner-friendly false,
- :record/tags "cljs, boot, cljsjs, tooling"}
+ :record/tags "cljs, tooling"}

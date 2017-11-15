@@ -6,4 +6,4 @@
  :project/description
  "Light Table is a next generation code editor that connects you to your creation with instant feedback. Light Table is very customizable and can display anything a Chromium browser can.",
  :project/beginner-friendly true,
- :record/tags "ide, clojure, clojurescript, editor"}
+ :record/tags "cljs, tooling"}

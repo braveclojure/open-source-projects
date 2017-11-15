@@ -6,4 +6,4 @@
  :project/description
  "A tool to edit clojurescript using Reagent, which changes shows changes to the dom.\n\nGive it a try: http://cljsfiddle.com",
  :project/beginner-friendly false,
- :record/tags "clojurescript, interactive, cljsfiddle, boot, cljs"}
+ :record/tags "cljs"}

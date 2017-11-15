@@ -6,4 +6,4 @@
  "https://github.com/netizer/relational_mapper/",
  :project/description
  "Relational Mapper is a library for working with relational databases. It lets you define associacions between tables and make a database request that will return an array of interrelated data in a easy to hash/array structure.",
- :record/tags "web development, backend"}
+ :record/tags "db, web, backend"}

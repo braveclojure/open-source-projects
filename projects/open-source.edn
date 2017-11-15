@@ -6,5 +6,4 @@
  :project/beginner-issues-label "",
  :project/description
  "Open Source is the repo for the site you're looking at! It uses reagent, re-frame, boot, compojure, and more. There are also ansible (server provisioning and deployment tool) roles that can serve as an example. It's kind of funky in that it uses the github project https://github.com/braveclojure/open-source-projects as its database.\n\nThere's still much I want to do to improve the code so that it can be an even better example of a Clojure/Script app, or even so that it's easy  to hack on.\n\nIf you'd like to contribute, visit the repo and [create an issue](https://github.com/braveclojure/open-source/issues) or make a pull request. You can find me in clojurians slack, @nonrecursive.",
- :record/tags
- "reagent, re-frame, web development, liberator, compojure, github, boot, ansible"}
+ :record/tags "web, frontend, backend"}

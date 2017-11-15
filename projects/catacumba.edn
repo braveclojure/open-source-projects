@@ -7,5 +7,4 @@
  :project/description
  "Catacumba is an asynchronous or non-blocking web toolkit for Clojure built on top of ratpack and netty drawing inspiration from ring, pedestal and ratpack.",
  :project/beginner-friendly true,
- :record/tags
- "web framework, backend, toolkit, rest, websockets, async"}
+ :record/tags "web, framework, backend"}

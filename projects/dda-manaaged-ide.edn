@@ -1,5 +1,5 @@
 {:project/name
- "https://github.com/DomainDrivenArchitecture/dda-managed-ide",
+ "dda-managed-ide",
  :project/tagline "Project to automate your ide installation.",
  :project/repo-url
  "https://github.com/DomainDrivenArchitecture/dda-managed-ide",
@@ -7,5 +7,4 @@
  :project/beginner-issues-label "beginner",
  :project/description
  "dda-pallet is a DevOps System combining the great framework pallet from Hugo Duncan and principles of Domain Driven Design (overview can be found here: https://domaindrivenarchitecture.org/pages/dda-pallet/ ).\n\nThe Module dda-managed-ide is able to automate the setup of your personal ide in a repeatable manner.\n\nCurrent issues, tasks & roadmap can be found here: https://github.com/DomainDrivenArchitecture/dda-managed-ide/projects/1",
- :record/tags
- "clojure, devops, aws, ide, cider, atom, eclipse, nightlight, git, xubuntu"}
+ :record/tags "devops, tooling"}

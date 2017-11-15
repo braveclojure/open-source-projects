@@ -6,4 +6,4 @@
  :project/description
  "Cryogen is a static site generator with an extensive list of features that is always looking to grow.  Find us on [Clojurians Slack](http://clojurians.net) in the #cryogen channel.",
  :project/beginner-friendly true,
- :record/tags "static site generator"}
+ :record/tags "web, cms"}

@@ -6,4 +6,4 @@
  :project/description
  "kezban is a extended collection & utility library for Clojure.\n",
  :project/beginner-friendly true,
- :record/tags "library, web development, framework, backend, frontend"}
+ :record/tags "web, framework, backend, frontend, utilities"}

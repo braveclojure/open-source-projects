@@ -3,4 +3,4 @@
  :project/home-page-url "http://www.http-kit.org/",
  :project/description
  "http-kit is a minimalist, event-driven, high-performance Clojure HTTP server/client library with WebSocket and asynchronous support",
- :record/tags "web development, server, restful, websocket, http"}
+ :record/tags "web, backend"}

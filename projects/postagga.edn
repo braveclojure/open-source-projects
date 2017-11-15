@@ -7,5 +7,4 @@
  :project/description
  "postagga is a suite of tools to assist you in generating efficient and self-contained natural language processors. You can use postagga to process annotated text samples into full fledged parsers capable of understanding \"free speech\" input as structured data. Ah and you'll be able to do this easily. You're welcome.",
  :project/beginner-friendly true,
- :record/tags
- "nlp,algorithms,pos tagging,corpus,natural language processing"}
+ :record/tags "natural language processing"}

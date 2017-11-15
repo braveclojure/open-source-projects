@@ -6,4 +6,4 @@
  :project/description
  "Luminus is a Clojure micro-framework for web development. We have an active community that's dedicated to helping new-comers. To learn about how to get involved, please visit our contribute page: http://www.luminusweb.net/contribute. You can also stop by #luminus on Slack or IRC.",
  :project/beginner-friendly true,
- :record/tags "web development, framework, backend, frontend"}
+ :record/tags "web, framework, backend, frontend"}

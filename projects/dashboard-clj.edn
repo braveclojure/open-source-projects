@@ -5,5 +5,4 @@
  :project/description
  "Abstract away the plumbing work that goes into building real-time dashboards.",
  :project/beginner-friendly false,
- :record/tags
- "realtime, dashboard, framework, backend, frontend, re-frame"}
+ :record/tags "framework, backend, frontend, cljs"}

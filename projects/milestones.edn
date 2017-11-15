@@ -6,4 +6,4 @@
  :project/description
  "Milestones is a Clojure library That only needs your project tasks description in order to generate the best possible schedule for you, based on priorities of scheduling, resources specification and tasks precedence.\n\nThe library uses an interesting approach, based on core.async, to simulate real workers getting quanta of time in order to generate the scheduling.",
  :project/beginner-friendly true,
- :record/tags "Project Management, Tasks Management"}
+ :record/tags "frontend"}

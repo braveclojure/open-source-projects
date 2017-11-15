@@ -5,4 +5,4 @@
  :project/home-page-url "https://github.com/ymilky/travel-zoo",
  :project/description
  "Travel Zoo is a Clojure toolbox for running embedded Zookeeper servers and clusters. It allows you to quickly build data-driven, validate-able  configurations for running Zookeeper servers and clusters for development and testing. It comes with types, components, helpers, and more to get you started using libraries and technologies such as Kafka that require Zookeeper.\n\nCheck out [the repo](https://github.com/ymilky/travel-zoo) for extensive documentation.",
- :record/tags "zookeeper, distributed computing, testing"}
+ :record/tags "distributed, testing"}

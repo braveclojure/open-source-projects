@@ -5,5 +5,4 @@
  :project/home-page-url "https://github.com/ymilky/franzy",
  :project/description
  "Franzy is a suite of Clojure libraries for Kafka. It includes libraries for Kafka consumers, producers, partitioners, callbacks, serializers/deserializers, as well as an admin client, embedded Kafka brokers, validations for all major Kafka types, configuration management, and mocks.\n\nThe main goal of Franzy is to make life easier for working with Kafka from Clojure. Franzy provides a foundation for building higher-level abstractions for whatever your needs might be when interacting with Kafka.",
- :record/tags
- "kafka, big data, distributed computing, queue, nippy, fressian, transit, zookeeper"}
+ :record/tags "big data, distributed"}

@@ -7,4 +7,4 @@
  :project/description
  "## What does cprop do?\n\n* loads an EDN config from a classpath and/or file system\n* merges it with system proppertis and ENV variables + the optional merge from sources (file, db, mqtt, http, etc.)\n* returns an (immutable) map\n* while keeping no internal state => different configs could be used within the same app, i.e. for app sub modules\n\n## Developing the project locally\n\n* git clone git@github.com:tolitius/cprop.git\n* cd cprop\n* boot dev\n\n## Running tests\n\n* boot test\n\n## Builds\n\nthere is a circle ci [build status](https://circleci.com/gh/tolitius/cprop). The build will kick off on any push / pull request and will show you builds for across the branches\n\n## How to contribute?\n\nsend a pull request to a cprop master branch\n\n## Let's talk!\n\nany questions or feedback just open a [github issue](https://github.com/tolitius/cprop/issues)",
  :project/beginner-friendly true,
- :record/tags "properties, configuration, environment"}
+ :record/tags "backend, utilities, web, framework"}

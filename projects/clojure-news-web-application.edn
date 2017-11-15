@@ -5,4 +5,4 @@
  :project/home-page-url "https://github.com/ertugrulcetin/ClojureNews",
  :project/description
  "Clojure News Web Application - (Hacker News Clone) Entirely written in Clojure & ClojureScript",
- :record/tags "web development, backend, open source"}
+ :record/tags "web, backend"}

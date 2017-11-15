@@ -6,5 +6,4 @@
  :project/description
  "Scheje is a tiny scheme implementation on Top of Clojure. It features all the ususal suspects one expects from a decent scheme implementation. It even features hygienic macros via syntax-rules.\n\nThis implementation greatly improves on one previous experiment which used to use Clojure macros. \n\nScheje can also be compiled for JS hosts thanks to its usage of Reader Conditionals.",
  :project/beginner-friendly true,
- :record/tags
- "Programming Language, Experimentation, Macros,Algorithms"}
+ :record/tags "language"}

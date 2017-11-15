@@ -3,4 +3,4 @@
  :project/repo-url "https://github.com/yogthos/migratus"
  :project/home-page-url "https://github.com/yogthos/migratus"
  :project/description "Migratus is a simple library for handling database migrations using plain SQL."
- :record/tags "database"}
+ :record/tags "db"}

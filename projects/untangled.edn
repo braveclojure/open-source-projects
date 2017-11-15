@@ -5,4 +5,4 @@
  :project/beginner-issues-label "beginner",
  :project/description "A ClojureScript-based webapp framework",
  :project/beginner-friendly true,
- :record/tags "web framework, frontend, backend"}
+ :record/tags "web, framework, frontend, backend"}

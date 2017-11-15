@@ -3,4 +3,4 @@
  :project/repo-url "https://github.com/yogthos/Selmer"
  :project/home-page-url "https://github.com/yogthos/Selmer"
  :project/description "Selmer is a Django style templating library for Clojure."
- :record/tags "web development"}
+ :record/tags "web"}

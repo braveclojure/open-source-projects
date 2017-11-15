@@ -7,5 +7,4 @@
  :project/description
  "Metabase is an easy, open source way for everyone in a company to ask questions and learn from data. It's a business intelligence/dashboard tool that can connect to over a dozen different types of databases (Postgres, MySQL, Mongo, Druid, and more) and lets you easily build queries and visualize the results.\n\nMetabase has an large active community and a HUGE list of open GitHub issues for bugfixes, enhancements, and new features [here](https://github.com/metabase/metabase/issues). It has tons of features contributed by the community and welcome new ones, and the experienced Clojure developers on the team are more than willing to help you get a PR into a mergeable state.",
  :project/beginner-friendly true,
- :record/tags
- "analytics, business intelligence, data visualization, SQL editor, data analysis"}
+ :record/tags "db, big data, frontend"}

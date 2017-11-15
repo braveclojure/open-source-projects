@@ -5,4 +5,4 @@
  :project/description "BowlerStudio is a standard distribution of a set of useful libraries used for robotics development, combined with a Git based runtime. Users go through web-based tutorials collecting forks of example scripts, which they can modify for their own uses. The runtime also standardizes calling scripts in other languages, and makes Clojure scripts availible in the same way. 
 
 BowlerStudio features a CAAD engine for designing parts for 3d printing using Clojure directly. There is also a physics engine for testing new robots in a simulator build on JBullet Physics. When a design is tested working, then the same controls used to run the simulator can talk directly to real-time hardware and run your same controller in the real world. "
- :record/tags "robotics, robot, control, real-time, CAD, physics"}
+ :record/tags "robotics"}

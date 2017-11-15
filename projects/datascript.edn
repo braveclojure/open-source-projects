@@ -4,4 +4,4 @@
  :project/home-page-url "https://github.com/tonsky/datascript",
  :project/description
  "An immutable in-memory database and Datalog query engine for Clojure, ClojureScript and JS",
- :record/tags "datalog, database"}
+ :record/tags "db, cljs"}

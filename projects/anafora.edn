@@ -4,4 +4,4 @@
  :project/home-page-url "https://github.com/tylermorten/anafora",
  :project/description
  "A Clojure library designed to make reference requests from local Bloomberg stations. Uses the Bloomberg java api version 3.7.1",
- :record/tags "bloomberg,library,wrapper"}
+ :record/tags ""}

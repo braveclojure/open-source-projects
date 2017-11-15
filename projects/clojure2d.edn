@@ -6,4 +6,4 @@
  :project/description
  "Clojure2D is a lightweight library supporting generative coding or glitching. It’s based on Java2D directly. ",
  :project/beginner-friendly true,
- :record/tags "framework, image processing"}
+ :record/tags "framework, images"}

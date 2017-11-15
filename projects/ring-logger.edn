@@ -5,4 +5,4 @@
  :project/home-page-url "https://github.com/nberger/ring-logger",
  :project/description
  "Ring-logger provides a middleware to log duration and details for every request and response. It has colored output, redaction of sensitive data and it aims at being customizable but easy to use by default. The logging backend is pluggable. The clojure/tools.logging implementation is included, and there are libraries that provide additional backends integration: ring-logger-onelog & ring-logger-timbre\n\nPull requests and issues are welcome!\n\nTo run tests: `lein test`\n\nTo run the example project: `cd example && lein run`",
- :record/tags "web development,logging,ring"}
+ :record/tags "web, backend"}

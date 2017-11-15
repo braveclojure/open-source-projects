@@ -5,4 +5,4 @@
  :project/beginner-issues-label "",
  :project/description
  "Riemann aggregates events from your servers and applications with a powerful stream processing language.",
- :record/tags "networking"}
+ :record/tags "devops"}

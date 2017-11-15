@@ -5,4 +5,4 @@
  :project/home-page-url "https://github.com/CmdrDats/igoki",
  :project/description
  "The aim of igoki is to enable Go players to play on a physical board, but still have the benefits of playing via a digital medium:\n\n - Record your Kifu (game record) automatically as the game progresses\n - Guided reviewing, so that you can review games and explore branches on your physical board easily\n - Direct online playing using integration with online-go.com\n\nTo get quickly started with the dev environment, simply fire up 'lein repl' and enter '(start)' in the repl. That will get you an nrepl server going with the app running.\n\nThere are currently no automated tests to worry about.\n\nFeel free to post Pull Requests for changes you've made, big or small! I appreciate any time spent working on this project :)\n\nYou can contact me directly on twitter @CmdrDats if you need to chat.",
- :record/tags "opencv, baduk, quil, websockets"}
+ :record/tags "art, games"}

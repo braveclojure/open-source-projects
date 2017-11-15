@@ -5,4 +5,4 @@
  :project/description
  "Config is a very small library used to handle configuration of a server; it works quite well with a system defined in terms of Stuart Sierra’s component library.\n\nComponents are configured using YAML or EDN, and each component provides a (Prismatic) Schema to define its options; used for both validation and coercion.\n\nSpecial care has been taken to ensure that configuration is flexible enough to support local testing, all the way through to production deployment.",
  :project/beginner-friendly false,
- :record/tags "configuration, component"}
+ :record/tags "backend"}

@@ -4,4 +4,4 @@
  :project/home-page-url "http://reveriecms.org",
  :project/description
  "Reverie is a CMS aimed at power users. The scope is a fully fledged CMS that is powerful, flexible and allows for fast development.\n\nAs a project reverie is intermediate to advanced. I'm available on slack as @emil0r if you want to contribute.",
- :record/tags "web development, cms"}
+ :record/tags "web, cms"}

@@ -5,4 +5,4 @@
  :project/description
  "Macchiato Core implements a Ring compatible framework on top of Node.js. ",
  :project/beginner-friendly false,
- :record/tags "web development, framework, backend"}
+ :record/tags "web, framework, backend"}

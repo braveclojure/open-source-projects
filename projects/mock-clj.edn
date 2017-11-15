@@ -5,4 +5,4 @@
  :project/home-page-url "https://github.com/zhming0/mock-clj",
  :project/description
  "Minimalist & non-invasive API for mocking in Clojure. Basically, it is a syntax sugar around with-redefs.",
- :record/tags "testing,mocking"}
+ :record/tags "testing"}

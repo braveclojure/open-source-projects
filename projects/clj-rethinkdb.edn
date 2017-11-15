@@ -6,4 +6,4 @@
  :project/description
  "clj-rethinkdb is a Clojure database driver for RethinkDB. We welcome new Clojure developers, and there are a number of beginner issues available for people to pick.",
  :project/beginner-friendly true,
- :record/tags "database, rethinkdb"}
+ :record/tags "db"}
