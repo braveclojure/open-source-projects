@@ -1,0 +1,7 @@
+{:project/name "oksql",
+ :project/tagline "An easy clojure postgres library",
+ :project/repo-url "https://github.com/swlkr/oksql",
+ :project/home-page-url "https://github.com/swlkr/oksql",
+ :project/description
+ "oksql is a postgres library for interacting with the database through static sql files that are called from clojure functions. It's similar to yesql in that respect.\n\nIf you use this and it stinks, file an issue! I'll be happy to respond to any problems anyone has! ",
+ :record/tags "db, backend"}
