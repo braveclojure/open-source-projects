@@ -1,0 +1,7 @@
+{:project/name "Precept",
+ :project/tagline "A declarative programming framework",
+ :project/repo-url "https://github.com/CoNarrative/precept",
+ :project/home-page-url "https://github.com/CoNarrative/precept",
+ :project/description
+ "Precept is a declarative programming framework that combines the Clara rules engine and Reagent with syntax and concepts from Datomic, Drools and Prolog. It can be run in the browser as a frontend state manager and on the server for things like complex event processing, decision making, fraud detection, or any task typically designated to a relational in-memory logic engine. \n\nAll development takes place on Github and via pull requests and Github issues. For questions or discussion check out  #precept on Clojurians Slack or contact the maintainer directly @a_dixon on Twitter.",
+ :record/tags "ai, cljs, framework, expert system, web"}
