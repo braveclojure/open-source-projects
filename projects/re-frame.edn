@@ -1,0 +1,9 @@
+{:project/name "Re-frame",
+ :project/tagline
+ "A Reagent Framework For Writing SPAs, in Clojurescript. ",
+ :project/repo-url "https://github.com/Day8/re-frame",
+ :project/home-page-url "https://github.com/Day8/re-frame",
+ :project/beginner-issues-label "",
+ :project/description
+ "Clojure programmers place particular emphasis on the primacy of data, and they like to meditate on aphorisms like data is the ultimate in late binding. (Less productively, they also like re-watching Rich Hickey videos, and wishing their hair was darker and more curly)\n\nI cannot stress enough what a big deal this is. It may seem like a syntax curiosity at first but, when the penny drops for you on this, it tends to be a profound moment. And once you understand the importance of this concept at the language level, you naturally want to leverage similar power at the library and system levels.\n\nSo, it will come as no surprise, then, to know that re-frame has a data oriented design. Events are data. Effects are data. DOM is data. The functions which transform data are registered and looked up via data. Interceptors (data) are preferred over middleware (higher order functions). Etc.",
+ :record/tags "web, cljs, frontend"}
