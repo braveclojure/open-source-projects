@@ -1,0 +1,7 @@
+{:project/name "Reagent",
+ :project/tagline "Minimalistic React for ClojureScript",
+ :project/repo-url "https://github.com/reagent-project/reagent",
+ :project/home-page-url "http://reagent-project.github.io/",
+ :project/beginner-issues-label "cljs frontend web",
+ :project/description
+ "Reagent provides a minimalistic interface between ClojureScript and React. It allows you to define efficient React components using nothing but plain ClojureScript functions and data, that describe your UI using a Hiccup-like syntax."}
