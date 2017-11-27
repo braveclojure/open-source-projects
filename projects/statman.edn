@@ -1,0 +1,9 @@
+{:project/name "statman",
+ :project/tagline
+ "A stats gathering library for clojure based on jmx ",
+ :project/repo-url "https://github.com/chartbeat-labs/statman",
+ :project/home-page-url "https://github.com/chartbeat-labs/statman",
+ :project/beginner-issues-label "",
+ :project/description
+ "statman is a clojure library for collecting stats for an application.\n\nStatistics shouldn't tax your application, they should be fast and reliable. To this goal, things like statsd or tsdb can frequently create a lot of overhead by sending traffic constantly to their backends. With statman we just collect stats and aggregate them. It's up to you to collect them from jmx or read them from the log file.\n\nIt follows the following pattern:\n\nStats are collected in a jmxbean\nStats are collected continuously and aggregated every minute (or however often you want)\nAggregated stats expose max/min/sum/etc through jmx\nStats are periodically logged at info level for collection or debugging\n",
+ :record/tags "backend, tooling, utilities"}
