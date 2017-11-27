@@ -1,0 +1,8 @@
+{:project/name "lacinia",
+ :project/tagline
+ "Clojure implementation of Facebook's GraphQL specification",
+ :project/repo-url "https://github.com/walmartlabs/lacinia",
+ :project/home-page-url "http://lacinia.readthedocs.io/en/latest/",
+ :project/description
+ "Lacinia is a full-featured implementation of the GraphQL specification in Clojure.\n\nWe accept code changes via GitHub PR, but have a high standard for acceptance ... including working tests and updated documentation (where appropriate).\n\nWe're active on the #graphql channel on the Clojurian's Slack.\n\n",
+ :record/tags "backend"}
