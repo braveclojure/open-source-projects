@@ -1,0 +1,8 @@
+{:project/name "Skeptic",
+ :project/tagline "Given-When Style Testing for Clojure",
+ :project/repo-url "https://github.com/bradcypert/Skeptic",
+ :project/home-page-url "https://github.com/bradcypert/Skeptic",
+ :project/beginner-issues-label "beginner-friendly",
+ :project/description
+ "Given-When style testing for Clojure.\n\nTests are one of the best forms of code documentation, but are often hard to read or even comprehend. Structuring your tests as documentation gives you the best of both worlds.",
+ :record/tags "testing, utilities"}
