@@ -1,0 +1,8 @@
+{:project/name "ground",
+ :project/tagline
+ "library of threading macros to handle predicates and side effects",
+ :project/repo-url "https://github.com/rcullito/ground",
+ :project/home-page-url "https://clojars.org/ground",
+ :project/description
+ "Ground makes it easier to reason about threading in clojure by allowing *interruptions* to the control flow such as predicates and other side effects. If you have other ideas about how to manage threading, contributions are welcome!",
+ :project/beginner-friendly true}
