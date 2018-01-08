@@ -1,0 +1,8 @@
+{:project/name "boodle",
+ :project/tagline "Simple accounting SPA in Clojure and ClojureScript",
+ :project/repo-url "https://github.com/manuel-uberti/boodle",
+ :project/home-page-url "https://github.com/manuel-uberti/boodle",
+ :project/beginner-issues-label "clj",
+ :project/description
+ "The reasoning behind boodle can be found here: https://manuel-uberti.github.io/programming/2017/11/26/boodle/",
+ :record/tags "cljs, db, frontend"}
