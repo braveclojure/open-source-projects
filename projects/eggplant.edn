@@ -2,7 +2,7 @@
  :project/tagline
  "Behaviour Driven Development (BDD) Library for Clojure",
  :project/repo-url "https://github.com/perkss/eggplant",
- :project/home-page-url "https://github.com/perkss/eggplant",
+ :project/home-page-url "https://perkss.github.io/#/clojure#text-body",
  :project/beginner-issues-label "",
  :project/description
  "eggplant is a growing behavior driven development framework to allow developers to layout BDD tests quickly in Clojure. BDD is a very popular form of development and specification by example is a key part of this process. eggplant intends to provide the technical features required for this to enable simple and fast BDD for Clojure. \n\nExample: \n\n(defspec example-specification-multiplication\n         (testing \"Example specification showing multiplication given 2 when we process 2 * 2 then we expect 4\"\n           (given 2 test-data\n                  (then-we-expect 4 (when-we-process * 2 test-data)))))\n\nOur Motto: \"Simplicity is key\"\n\nPlease join the fun!!",
