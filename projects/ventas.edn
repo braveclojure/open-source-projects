@@ -5,4 +5,5 @@
  :project/beginner-issues-label "beginner-friendly",
  :project/description
  "Clojure is a work-in-progress ecommerce platform. It uses a re-frame/websockets/Datomic/Elasticsearch stack. There are lots of things to do, visit the Issues to find something you like. Read CONTRIBUTING.md for more information on how to contribute. You can also stop by the #ventas channel in the Clojurians slack workspace.",
+ :project/beginner-friendly true,
  :record/tags "cljs, db, frontend, web"}
