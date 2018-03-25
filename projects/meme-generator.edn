@@ -1,0 +1,6 @@
+{:project/name "Meme Generator",
+ :project/tagline "A meme generator web application",
+ :project/repo-url "https://github.com/evvo/meme-generator",
+ :project/home-page-url "https://github.com/evvo/meme-generator",
+ :project/description "A meme generator web application",
+ :record/tags "images, backend, web, art, mobile"}
