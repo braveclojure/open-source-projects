@@ -1,9 +1,9 @@
 {:project/name "Yetibot",
  :project/tagline "An ambitious chat bot written in Clojure",
  :project/repo-url "https://github.com/yetibot/yetibot",
- :project/home-page-url "http://yetibot.com",
- :project/beginner-issues-label "beginner",
+ :project/home-page-url "https://yetibot.com",
+ :project/beginner-issues-label "good first issue",
  :project/description
  "You can treat Yetibot as a communal command line. It works well for:\n\n<ul>\n<li>teaching: how to run internal automation, language evaluation for JS, Scala, Clojure, and Haskell</li>\n<li> productivity: automating things around Jenkins, JIRA, running SSH commands on various servers, and interacting with internal APIs via private yetibot plugins</li>\n<li>fun: google image search, gif lookups, meme generation</li>\n</ul>\n\nGet involved by contributing bug fixes or features, or chat with <a href=\"http://twitter.com/devth\">@devth</a> on Twitter or join the <a href=\"http://slack.yetibot.com/\">public Slack</a>!\n\n<img src=\"https://raw.githubusercontent.com/devth/yetibot/master/img/yetibot_final.png\" width=\"100%\" />",
  :project/beginner-friendly true,
- :record/tags "tooling"}
+ :record/tags "tooling, devops"}
