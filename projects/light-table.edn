@@ -2,7 +2,7 @@
  :project/tagline "Next generation code editor",
  :project/repo-url "https://github.com/LightTable/LightTable",
  :project/home-page-url "http://lighttable.com/",
- :project/beginner-issues-label "beginner",
+ :project/beginner-issues-label "good first issue",
  :project/description
  "Light Table is a next generation code editor that connects you to your creation with instant feedback. Light Table is very customizable and can display anything a Chromium browser can.",
  :project/beginner-friendly true,
