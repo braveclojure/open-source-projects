@@ -5,5 +5,5 @@
  :project/home-page-url "http://www.braidchat.com/",
  :project/beginner-issues-label "help%20wanted",
  :project/description
- "Braid is a group chat application that promotes productive team communication, while still respecting each individual's need for focus. Instead of chatrooms, Braid takes a new approach: discrete conversations and tags. Braid's design fosters conversations that stay on topic and allows for deep integrations with other services (think \"1:1 sync\", not just \"chat bots\").",
+ "Braid is a group chat application, so, like Slack, but, with a novel UI that better promotes productive team communication.\n\nSince Braid is an application, not just a library, it provides a great opportunity to gain real-world clojure app development experience.\n\nFor the same reason, the size of the code-base is quite large, but don't worry! We've tried to make it easy to get started and we've architected the app into loosely-coupled modules (think \"wordpress plugins\"), to make it easier to understand. \n\nJames and Raf are available to pair code with anyone who'd like to get started.\n\nInstructions for contributing and getting started are in the README: https://github.com/braidchat/braid#contributing \n\n",
  :record/tags "web"}
