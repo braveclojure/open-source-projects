@@ -2,7 +2,8 @@
  :project/tagline
  "A new approach to group chat, designed around conversations and tags instead of rooms",
  :project/repo-url "https://github.com/braidchat/braid",
- :project/home-page-url "http://www.braidchat.org/",
- :project/beginner-issues-label "chat",
+ :project/home-page-url "http://www.braidchat.com/",
+ :project/beginner-issues-label "help%20wanted",
  :project/description
- "Braid is a group chat application that promotes productive team communication, while still respecting each individual's need for focus. Instead of chatrooms, Braid takes a new approach: discrete conversations and tags. Braid's design fosters conversations that stay on topic and allows for deep integrations with other services (think \"1:1 sync\", not just \"chat bots\")."}
+ "Braid is a group chat application that promotes productive team communication, while still respecting each individual's need for focus. Instead of chatrooms, Braid takes a new approach: discrete conversations and tags. Braid's design fosters conversations that stay on topic and allows for deep integrations with other services (think \"1:1 sync\", not just \"chat bots\").",
+ :record/tags "web"}
