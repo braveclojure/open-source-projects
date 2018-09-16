@@ -1,0 +1,8 @@
+{:project/name "HugSQL",
+ :project/tagline "HugSQL is a Clojure library for embracing SQL.",
+ :project/repo-url "https://github.com/layerware/hugsql",
+ :project/home-page-url "https://www.hugsql.org",
+ :project/description
+ "HugSQL is a Clojure library for embracing SQL.   \n\nHugSQL uses simple conventions in your SQL files to define (at compile time) database functions in your Clojure namespace, creating a clean separation of Clojure and SQL code.  \n\nHugSQL supports runtime replacement of SQL Value Parameters (e.g., where id = :id), SQL Identifiers (i.e. table/column names), and SQL Keywords. You can also implement your own parameter types.\n\nHugSQL features Clojure Expressions and Snippets providing the full expressiveness of Clojure and the composability of partial SQL statements when constructing complex SQL queries.\n\nHugSQL has protocol-based adapters supporting multiple database libraries and ships with adapters for clojure.java.jdbc (default) and clojure.jdbc\n\nQuestions?  Join the #hugsql slack channel on clojurians.net\n\nBugs/Issues: https://github.com/layerware/hugsql/issues",
+ :project/beginner-friendly false,
+ :record/tags "db"}
