@@ -1,6 +1,6 @@
 {:project/name "Cryogen",
  :project/tagline "A static site generator written in Clojure",
- :project/repo-url "https://github.com/cryogen-project/",
+ :project/repo-url "https://github.com/cryogen-project/cryogen",
  :project/home-page-url "http://cryogenweb.org",
  :project/beginner-issues-label "",
  :project/description
