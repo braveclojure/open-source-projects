@@ -1,0 +1,7 @@
+{:project/name "Coast Framework",
+ :project/tagline "Full stack Clojure Web Framework",
+ :project/repo-url "https://github.com/coast-framework/coast",
+ :project/home-page-url "https://github.com/coast-framework/coast",
+ :project/description
+ "The easiest way to build full stack web apps with Clojure",
+ :record/tags "web, framework, frontend, backend"}
