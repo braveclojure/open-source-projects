@@ -1,0 +1,6 @@
+{:project/name "tinklj",
+ :project/tagline "A wrapper for Google Tink Cryptography API",
+ :project/repo-url "https://github.com/perkss/tinklj",
+ :project/home-page-url "https://github.com/perkss/tinklj",
+ :project/description
+ "Tinklj is a Clojure wrapper API for the Google Tink cryptography project. A great library allowing all sorts of simple yet strong cross platform cryptographic techniques such as encryption. "}
