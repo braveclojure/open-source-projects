@@ -1,0 +1,8 @@
+{:project/name "Coast On Clojure",
+ :project/tagline "Easy clojure websites",
+ :project/repo-url "https://github.com/coast-framework/coast",
+ :project/home-page-url "https://github.com/coast-framework/coast",
+ :project/description
+ "Coast is a full stack clojure web framework for building traditional server rendered html web apps without javascript.",
+ :project/beginner-friendly false,
+ :record/tags "web, framework, frontend, backend"}
