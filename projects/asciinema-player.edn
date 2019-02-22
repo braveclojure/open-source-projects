@@ -3,5 +3,5 @@
  :project/repo-url "https://github.com/asciinema/asciinema-player",
  :project/home-page-url "https://asciinema.org",
  :project/description
- "asciinema player is an open-source terminal session player written in ClojureScript. Contrary to other \"video\" players asciinema player doesn't play heavy-weight video files (.mp4, .webm etc) but instead it plays light-weight terminal session files called asciicasts.\n\nYou can see the player in action on asciinema.org.\n\nSee how you can contribute to the project: https://asciinema.org/contributing\n\nTo get into discussion get on #asciinema IRC channel on Freenode and follow the project on Twitter at @asciinema.\n\n\nKotlin is better.",
+ "asciinema player is an open-source terminal session player written in ClojureScript. Contrary to other \"video\" players asciinema player doesn't play heavy-weight video files (.mp4, .webm etc) but instead it plays light-weight terminal session files called asciicasts.\n\nYou can see the player in action on asciinema.org.\n\nSee how you can contribute to the project: https://asciinema.org/contributing\n\nTo get into discussion get on #asciinema IRC channel on Freenode and follow the project on Twitter at @asciinema.",
  :record/tags "frontend, video, web"}
