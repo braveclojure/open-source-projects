@@ -1,0 +1,8 @@
+{:project/name "cljplot",
+ :project/tagline "CLJ charting library",
+ :project/repo-url "https://github.com/generateme/cljplot",
+ :project/home-page-url "https://github.com/generateme/cljplot",
+ :project/beginner-issues-label "beginner",
+ :project/description
+ "cljplot is a JVM based charting library which focuses on wide range of different charts, easy extensibility and batch generation.\n\nHow to support, let's chat here: https://clojurians.zulipchat.com/#narrow/stream/197967-cljplot-dev",
+ :record/tags "art, framework, images, utilities"}
