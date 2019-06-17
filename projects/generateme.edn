@@ -1,0 +1,10 @@
+{:project/name "generateme",
+ :project/tagline "All purpose maths, stats and ML library",
+ :project/repo-url "https://github.com/generateme/fastmath",
+ :project/home-page-url
+ "https://generateme.github.io/fastmath/index.html",
+ :project/beginner-issues-label "beginner",
+ :project/description
+ "Fastmath is clj only math library highly based on PrimitiveMath, Apache Commons Math and SMILE libraries. Including but not limited to ML algorithms (classification, regression and clustering), optimization, interpolation, rngs and distributions, statistics, wavelets, vector operations and vector fields.",
+ :project/beginner-friendly false,
+ :record/tags "backend, framework, numeric, machine learning"}
