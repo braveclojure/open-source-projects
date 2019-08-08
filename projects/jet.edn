@@ -1,0 +1,10 @@
+{:project/name "jet",
+ :project/tagline
+ "CLI to transform between JSON, EDN and Transit, powered with a minimal query language.",
+ :project/repo-url "https://github.com/borkdude/jet",
+ :project/home-page-url "https://github.com/borkdude/jet",
+ :project/beginner-issues-label "starter issue",
+ :project/description
+ "Jet is a CLI to transform between JSON, EDN and Transit, powered with a minimal query language.",
+ :project/beginner-friendly true,
+ :record/tags "utilities, devops"}
