@@ -1,0 +1,9 @@
+{:project/name "clj-kondo",
+ :project/tagline "A linter for Clojure code that sparks joy.",
+ :project/repo-url "https://github.com/borkdude/clj-kondo",
+ :project/home-page-url "https://github.com/borkdude/clj-kondo",
+ :project/beginner-issues-label "starter issue",
+ :project/description
+ "Clj-kondo is a linter for Clojure code that sparks joy. ",
+ :project/beginner-friendly true,
+ :record/tags "tooling, utilities"}
