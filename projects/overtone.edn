@@ -5,4 +5,4 @@
  :project/beginner-issues-label "",
  :project/description
  "Overtone is an Open Source toolkit for designing synthesizers and collaborating with music.",
- :record/tags "music"}
+ :record/tags "music, art"}
