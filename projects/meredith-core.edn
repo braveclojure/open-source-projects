@@ -1,0 +1,9 @@
+{:project/name "Meredith Core",
+ :project/tagline
+ "A backend .net API which manages our database (postgres, google cloud). Data from this database is used by meredith-core to provide endpoints to any front end team. All content for websites, email marketing, ad buying, etc. is all stored in the same database, allowing easy content management for large brands and marketing agencies. ",
+ :project/repo-url "https://github.com/whynotearth/meredith-core",
+ :project/home-page-url "https://github.com/whynotearth/meredith-core",
+ :project/description
+ "A backend .net API which manages our database (postgres, google cloud). Data from this database is used by meredith-core to provide endpoints to any front end team. All content for websites, email marketing, ad buying, etc. is all stored in the same database, allowing easy content management for large brands and marketing agencies.  She comes with all the backend functionalities needed to build a full webapp, including a hotel booking/calendar engine, integration with stripe for ecommerce, authentication with facebook/google, and is getting better every day!",
+ :project/beginner-friendly false,
+ :record/tags "web, backend"}
