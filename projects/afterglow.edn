@@ -4,5 +4,5 @@
  :project/repo-url "https://github.com/brunchboy/afterglow",
  :project/home-page-url "https://github.com/brunchboy/afterglow",
  :project/description
- "An environment supporting live coding for the creation of algorithmic light shows in Clojure, leveraging the Open Lighting Architecture with the help of ola-clojure, wayang, beat-link, and pieces of the Overtone toolkit. Beyond building on pieces of Overtone, the entire Afterglow project was inspired by it.\n\nEDIT: Can I really just edit this? Just like that? Wow.\nEdit: Sugoi\nEdit: Wow it really works!\nsuper duper",
+ "An environment supporting live coding for the creation of algorithmic light shows in Clojure, leveraging the Open Lighting Architecture with the help of ola-clojure, wayang, beat-link, and pieces of the Overtone toolkit. Beyond building on pieces of Overtone, the entire Afterglow project was inspired by it.",
  :record/tags "music, art"}
