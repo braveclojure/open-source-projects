@@ -1,0 +1,8 @@
+{:project/name "patika",
+ :project/tagline "HTTP Routing",
+ :project/repo-url "https://github.com/ertugrulcetin/patika",
+ :project/home-page-url "https://github.com/ertugrulcetin/patika",
+ :project/description
+ "Patika is a new Clojure routing library which is an abstraction over Liberator + Compojure",
+ :project/beginner-friendly true,
+ :record/tags "backend, db, distributed, framework, utilities, web"}
