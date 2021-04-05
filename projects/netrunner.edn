@@ -2,7 +2,7 @@
  :project/tagline "An online version of the card game Netrunner",
  :project/repo-url "https://github.com/mtgred/netrunner",
  :project/home-page-url "http://jinteki.net",
- :project/beginner-issues-label "good first issue",
+ :project/beginner-issues-label "easy",
  :project/description "An online version of the card game Netrunner",
  :project/beginner-friendly true,
  :record/tags "games, web"}
