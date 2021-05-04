@@ -1,0 +1,7 @@
+{:project/name "clj-clapps",
+ :project/tagline "A library to write command line apps in Clojure",
+ :project/repo-url "https://github.com/clj-clapps/clj-clapps",
+ :project/home-page-url "https://github.com/clj-clapps/clj-clapps",
+ :project/description
+ "clj-clapps is small Clojure library that simplifies writing command line apps.",
+ :record/tags "tooling, framework"}
