@@ -1,0 +1,10 @@
+{:project/name "Alexa Monitor",
+ :project/tagline
+ "A beginner friently crawler to record Alexa Rank of provided websites",
+ :project/repo-url "https://github.com/pouyacode/alexa-monitor",
+ :project/home-page-url "https://alexa-monitor.pouyacode.net",
+ :project/beginner-issues-label "good first issue",
+ :project/description
+ " Beginner-friendly Clojure app. I have no special goal in mind, except teaching new-comers and learning while building a toy software. Checkout my article about this project: https://pouyacode.net/alexa-monitor.html",
+ :project/beginner-friendly true,
+ :record/tags "db, web"}
