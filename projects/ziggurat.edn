@@ -1,0 +1,10 @@
+{:project/name "ziggurat",
+ :project/tagline
+ "A micro framework for stream processing on top of Kafka",
+ :project/repo-url "https://github.com/gojek/ziggurat",
+ :project/home-page-url "https://ziggurat.dev/",
+ :project/beginner-issues-label "good first issue",
+ :project/description
+ "Ziggurat is a framework built to simplify Stream processing on Kafka. It can be used to create a full-fledged Clojure app that reads and processes messages from Kafka. Ziggurat is built with the intent to abstract out -\n\n→ reading messages from Kafka\n→ retrying failed messages\n→ setting up an HTTP server",
+ :project/beginner-friendly true,
+ :record/tags "framework"}
