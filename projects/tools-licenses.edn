@@ -1,0 +1,10 @@
+{:project/name "tools-licenses",
+ :project/tagline
+ "A Clojure tools.build task library related to dependency licenses.",
+ :project/repo-url "https://github.com/pmonks/tools-licenses",
+ :project/home-page-url "https://github.com/pmonks/tools-licenses",
+ :project/beginner-issues-label "good first issue",
+ :project/description
+ "A Clojure tools.build task library related to determining and reporting the software licenses used by your project's dependencies and, transitively, their dependencies.",
+ :project/beginner-friendly true,
+ :record/tags "tooling"}
