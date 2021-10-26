@@ -1,0 +1,10 @@
+{:project/name "tools-pom",
+ :project/tagline
+ "A Clojure tools.build task library related to the generation of comprehensive pom.xml files.",
+ :project/repo-url "https://github.com/pmonks/tools-pom",
+ :project/home-page-url "https://github.com/pmonks/tools-pom",
+ :project/beginner-issues-label "good first issue",
+ :project/description
+ "A Clojure tools.build task library related to the generation of comprehensive pom.xml files, beyond the limited set of POM elements tools.build/tools.deps generates.",
+ :project/beginner-friendly true,
+ :record/tags "tooling"}
