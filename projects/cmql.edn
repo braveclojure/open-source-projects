@@ -4,6 +4,6 @@
  :project/repo-url "https://github.com/tkaryadis/cmql-core",
  :project/home-page-url "https://cmql.org/",
  :project/description
- "cMQL is a Clojure(Script) library,  for quering MongoDB.\nIt feels almost as if Clojure was the query language of MongoDB, and reduces code up to 3x.\n\ncMQL example (playground has 150+ examples) :\n```\n(q (= :bedrooms 1)\n   (= :country.code \"GR\")\n   (group {:_id :stars}\n          {:average-price (avg :price)})\n   (sort :stars)\n   (limit 3))\n```\nDocs : https://cmql.org/\nPlayground : https://cmql.org/play/   \nGithub : https://github.com/tkaryadis/cmql-core \nSlack : https://app.slack.com/client/T03RZGPFR/C02P0821VJA\nDiscord :  https://discord.gg/zWDzp4B7Bf  ",
+ "cMQL is a Clojure(Script) library,  for quering MongoDB.  \nIt feels almost as if Clojure was the query language of MongoDB, and reduces code up to 3x.  \n\ncMQL example (playground has 150+ examples) :\n```\n(q (= :bedrooms 1)\n   (= :country.code \"GR\")\n   (group {:_id :stars}\n          {:average-price (avg :price)})\n   (sort :stars)\n   (limit 3))\n```\n\nDocs : https://cmql.org/  \nPlayground : https://cmql.org/play/     \nGithub : https://github.com/tkaryadis/cmql-core    \nSlack : https://app.slack.com/client/T03RZGPFR/C02P0821VJA   \nDiscord :  https://discord.gg/zWDzp4B7Bf     ",
  :project/beginner-friendly true,
  :record/tags "big data, db"}
