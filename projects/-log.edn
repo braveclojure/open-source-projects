@@ -6,6 +6,6 @@
  "https://cljdoc.org/d/com.brunobonacci/mulog/CURRENT",
  :project/beginner-issues-label "good first issue",
  :project/description
- "µ/log takes structured logging to the next level. It makes fully use of Clojure ability to work with data that you will forget how to use traditional loggers.\nBecause you can easily and cheaply log events you can use the same events for monitoring and observability purposes. Try it.",
+ "µ/log takes structured logging to the next level. It makes full use of Clojure ability to work with data that you will forget how to use traditional loggers.\n\nHere some features and key design decisions that make μ/log special:\n\nEffortlessly, logs events as data points.\nNo need to construct strings that then need to be deconstructed later.\nFast, extremely fast, under 300 nanoseconds per log entry\nMemory bound; no unbounded use of memory\nAll the processing and rendering happens asynchronously.\nAbility to add contextual logging.\nAdding publishers won't affect logging performances\nExtremely easy to create stateful publishers for new systems\nWide range of publishers available (see available list)\nEvent logs are useful, but not as important as process flow (therefore preferable to drop events rather than crashing the process)\nBecause it is cheap to log events, you can freely log plenty.\nAnd events are just data so can process, enrich, filter, aggregate, visualise the data with your own tools.\n",
  :project/beginner-friendly true,
  :record/tags "tooling, distributed"}
