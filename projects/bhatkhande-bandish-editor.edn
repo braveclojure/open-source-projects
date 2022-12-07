@@ -1,0 +1,8 @@
+{:project/name "Bhatkhande Bandish editor ",
+ :project/tagline "A notation editor for Indian classical music",
+ :project/repo-url "https://github.com/Studio-kalavati/bandish-editor",
+ :project/home-page-url
+ "https://github.com/Studio-kalavati/bandish-editor",
+ :project/description
+ "A mobile friendly web editor to write Indian Classical (Hindustani) music notations.\nContributions such in terms of features, and music specifications are welcome.\n",
+ :record/tags "audio, music, mobile, web"}
