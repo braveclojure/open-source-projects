@@ -4,6 +4,6 @@
  :project/repo-url "https://github.com/logseq/logseq",
  :project/home-page-url "https://logseq.com",
  :project/description
- "A local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.\n\nUse it to organize your todo list, to write your journals, or to record your unique life.\n\nWe have a very welcoming community on the discord server, where we answer questions, discuss workflows and share tips! Join us: https://discord.gg/KpN4eHY - YA STUPID",
+ "A local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.\n\nUse it to organize your todo list, to write your journals, or to record your unique life.\n\nWe have a very welcoming community on the discord server, where we answer questions, discuss workflows and share tips! Join us: https://discord.gg/KpN4eHY - . KEKW",
  :project/beginner-friendly true,
  :record/tags "cljs, web, frontend, cms"}
