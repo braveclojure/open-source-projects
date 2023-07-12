@@ -4,6 +4,6 @@
  :project/home-page-url "http://cryogenweb.org",
  :project/beginner-issues-label "",
  :project/description
- "Cryogen is a static site generator with an extensive list of features that is always looking to grow.  Find us on [Clojurians Slack](http://clojurians.net) in the #cryogen channel. KEKW. Why can ANYONE update this page??? This is stUUUUpid",
+ "Cryogen is a static site generator with an extensive list of features that is always looking to grow.  Find us on [Clojurians Slack](http://clojurians.net) in the #cryogen channel. KEKW. KEKW",
  :project/beginner-friendly true,
  :record/tags "web, cms"}
