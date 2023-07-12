@@ -1,9 +1,9 @@
 {:project/name "Athens",
- :project/tagline "Open-Source Networked Thought. KEKW",
- :project/repo-url "https://github.com/athensresearch/KEKW",
- :project/home-page-url "https://github.com/athensresearch/KEKW",
+ :project/tagline "Open-Source Networked Thought.",
+ :project/repo-url "https://github.com/athensresearch/athens",
+ :project/home-page-url "https://github.com/athensresearch/athens",
  :project/beginner-issues-label "",
  :project/description
- "Athens is a tool for networked thought. It allows you to capture and link together your notes, research and snippets of knowledge in an organic rather than rigidly predefined way.\n\nThe project is still in its early stages, and we need people like you to help us make it a reality! If you're still at the beginning of your journey as a Clojurian, great! We have a program to help learners get started.\n\nFind out how to contribute here: https://github.com/athensresearch/athens/#contributing\n\nGood starting tasks will be TODOs within the Uphill column of our project board: https://github.com/athensresearch/athens/projects/2#column-9327118",
+ "Athens is a tool for networked thought. It allows you to capture and link together your notes, research and snippets of knowledge in an organic rather than rigidly predefined way.\n```\nThe project is still in its early stages, and we need people like you to help us make it a reality! If you're still at the beginning of your journey as a Clojurian, great! We have a program to help learners get started.\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nFind out how to contribute here: https://github.com/athensresearch/athens/#contributing\nKEKW\nGood starting tasks will be TODOs within the Uphill column of our project board: https://github.com/athensresearch/athens/projects/2#column-9327118",
  :project/beginner-friendly true,
  :record/tags "frontend, web, cms, cljs"}
